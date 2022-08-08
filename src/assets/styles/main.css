@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: Sarabun-Regular;
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+    src: url(../fonts/Sarabun/Sarabun-Regular.ttf) format("woff");
+  }
+  @font-face {
+    font-family: Kanit-Medium;
+    font-weight: normal;
+    font-style: normal;
+    font-display: optional;
+    src: url(../fonts/Kanit/Kanit-Medium.ttf) format("woff");
+  }
+  body {
+    @apply bg-white;
+  }
+}
