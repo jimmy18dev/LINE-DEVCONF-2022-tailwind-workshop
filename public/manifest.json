@@ -1,7 +1,7 @@
 {
-  "name": "Valuing Property",
-  "description": "Valuing Real Estate Properties.",
-  "short_name": "ValuingProp",
+  "name": "LINE DEVCONF 2022 tailwind workshop",
+  "description": "งานสัมมนาสำหรับ Developers โดย Developers ที่ยิ่งใหญ่ที่สุดในประเทศไทย",
+  "short_name": "DEVCONF2022",
   "icons": [
     {
       "src": "./icons/144.png",
@@ -25,6 +25,6 @@
   "start_url": "/?source=pwa",
   "scope": ".",
   "display": "standalone",
-  "background_color": "#6b21a8",
+  "background_color": "#ffffff",
   "theme_color": "#ffffff"
 }
