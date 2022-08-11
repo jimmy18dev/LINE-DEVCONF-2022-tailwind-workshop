@@ -1,7 +1,7 @@
 {
   "name": "line-devconf-2022-tailwind-workshop",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",

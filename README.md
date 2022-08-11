@@ -1,19 +1,35 @@
-# Vue 3 + TypeScript + Vite
+# Workshop: Utility-first CSS framework packed with Tailwind CSS
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+for LINE THAILAND DEVELOPER CONFERENCE 2022 on Sep 3, 9.00 - 17.00 at BITEC Grand Hall 201-203 [REGISTER](https://linedeveloperth.web.app/linedevconf2022/register.html) and check out the [tailwindcss docs](https://tailwindcss.com) to learn more.
+
+![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/master/screenshot/example.png)
+
+## Get started
+To install, you must have **Git** installed already.
+
+### Cloning a Repository.
+```
+git clone https://github.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop.git
+```
+
+### Change the current directory to Project
+```
+cd LINE-DEVCONF-2022-tailwind-workshop
+```
+
+### Install dependencies
+```
+npm i && npm run dev
+```
+
+### Done
+```
+http://localhost:3000
+```
 
 ## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [VS Code](https://code.visualstudio.com/)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
-## Type Support For `.vue` Imports in TS
-
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates. However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can enable Volar's Take Over mode by following these steps:
-
-1. Run `Extensions: Show Built-in Extensions` from VS Code's command palette, look for `TypeScript and JavaScript Language Features`, then right click and select `Disable (Workspace)`. By default, Take Over mode will enable itself if the default TypeScript extension is disabled.
-2. Reload the VS Code window by running `Developer: Reload Window` from the command palette.
-
-You can learn more about Take Over mode [here](https://github.com/johnsoncodehk/volar/discussions/471).
-
-ffmpeg -i income.gif -c vp9 -b:v 0 -crf 41 income.webm
-ffmpeg -i income.gif income.mp4
+![Tailwind CSS IntelliSense](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/master/screenshot/tailwind-Intellisense.png)
