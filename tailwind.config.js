@@ -8,7 +8,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      'kanit-medium': 'Kanit-Medium',
+      'sarabun-medium': 'Sarabun-Medium',
       body: 'Sarabun-Regular'
     },
     extend: {},
@@ -31,8 +31,7 @@ module.exports = {
       }
       addUtilities(newUtilities)
       addBase({
-        h1: { fontFamily: config('theme.fontFamily.kanit-medium') },
-        h2: { fontFamily: config('theme.fontFamily.kanit-medium') },
+        h1: { fontFamily: config('theme.fontFamily.sarabun-medium') },
         body: { fontFamily: config('theme.fontFamily.body') }
       })
     })

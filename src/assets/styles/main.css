@@ -11,13 +11,13 @@
     src: url(../fonts/Sarabun/Sarabun-Regular.ttf) format("woff");
   }
   @font-face {
-    font-family: Kanit-Medium;
+    font-family: Sarabun-Medium;
     font-weight: normal;
     font-style: normal;
-    font-display: optional;
-    src: url(../fonts/Kanit/Kanit-Medium.ttf) format("woff");
+    font-display: swap;
+    src: url(../fonts/Sarabun/Sarabun-Medium.ttf) format("woff");
   }
   body {
-    @apply bg-white;
+    @apply bg-gray-100;
   }
 }
