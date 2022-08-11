@@ -16,7 +16,7 @@ $ npm i && npm run dev
 [Open] http://localhost:3030
 ```
 
-![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/exmaple.png)
+![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/example.png)
 
 ## Recommended IDE Setup
 
