@@ -1,7 +1,7 @@
 <template>
-  <div class="flex items-center p-4">
-    <img class="rounded-full w-14 h-14 mr-4" src="../assets/images/avatar.jpg" alt="Maxwell">
-    <div class=" text-xl font-kanit-medium">Hello, Maxwell</div>
+  <div>
+    <img src="@/assets/images/avatar.jpg" alt="Maxwell">
+    <div>Hello, Maxwell</div>
   </div>
 </template>
 

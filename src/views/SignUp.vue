@@ -1,19 +1,19 @@
 <template>
-  <div class="flex flex-col bg-white fixed inset-0">
-    <h1 class="m-8 text-2xl text-center">Create an account</h1>
-    <div class="flex flex-col mx-4">
+  <div>
+    <h1>Create an account</h1>
+    <div>
       <InputText type="text" label="Fullname" placeholder="First name and Last name" />
       <InputText type="email" label="Email" placeholder="Enter email address" />
       <InputText type="password" label="Password" placeholder="Enter password" />
     </div>
-    <Button class="m-4">Register</Button>
+    <Button>Register</Button>
   </div>
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import Button from '../components/Button.vue'
-import InputText from '../components/InputText.vue'
+import Button from '@/components/Button.vue'
+import InputText from '@/components/InputText.vue'
 
 export default defineComponent({
   name: 'SignUp',

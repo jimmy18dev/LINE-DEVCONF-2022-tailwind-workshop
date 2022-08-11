@@ -1,5 +1,5 @@
 <template>
-  <div class="mb-2 font-sarabun-medium">
+  <div>
     <slot></slot>
   </div>
 </template>
@@ -8,6 +8,6 @@
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'Label',
+  name: 'LabelText',
 })
 </script>

@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col">
+  <div>
     <Profile />
     <Section>
       <ToggleMenu label="Notification sound" />
@@ -16,9 +16,9 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import ToggleMenu from '../components/ToggleMenu.vue'
-import Profile from '../components/Profile.vue'
-import Section from '../components/Section.vue'
+import ToggleMenu from '@/components/ToggleMenu.vue'
+import Profile from '@/components/Profile.vue'
+import Section from '@/components/Section.vue'
 
 export default defineComponent({
   name: 'Setting',
