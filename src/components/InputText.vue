@@ -1,13 +1,13 @@
 <template>
-  <div>
+  <div class="input-box">
     <LabelText>{{ label }}</LabelText>
-    <div>
-      <div v-if="type">
+    <div class="input-container">
+      <div class="input-icon" v-if="type">
         <font-awesome-icon v-if="type === 'text'" :icon="['fas', 'user']" />
         <font-awesome-icon v-if="type === 'password'" :icon="['fas', 'key']" />
         <font-awesome-icon v-if="type === 'email'" :icon="['fas', 'envelope']" />
       </div>
-      <input :type="type" :placeholder="placeholder">
+      <input class="input-text" :type="type" :placeholder="placeholder">
     </div>
   </div>
 </template>

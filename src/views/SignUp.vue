@@ -1,12 +1,12 @@
 <template>
-  <div>
-    <h1>Create an account</h1>
-    <div>
+  <div class="fullscreen">
+    <h1 class="center">Create an account</h1>
+    <div class="content">
       <InputText type="text" label="Fullname" placeholder="First name and Last name" />
       <InputText type="email" label="Email" placeholder="Enter email address" />
       <InputText type="password" label="Password" placeholder="Enter password" />
     </div>
-    <Button>Register</Button>
+    <Button>Sign Up</Button>
   </div>
 </template>
 

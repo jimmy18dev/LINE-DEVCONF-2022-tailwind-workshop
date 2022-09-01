@@ -13,7 +13,10 @@ To install, you must have **Git** installed already.
 $ git clone https://github.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop.git
 $ cd LINE-DEVCONF-2022-tailwind-workshop
 $ npm i && npm run dev
-[Open] http://localhost:3030
+
+[Open] http://localhost:3030/home
+[Open] http://localhost:3030/setting
+[Open] http://localhost:3030/signup
 ```
 
 ![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/example.png)

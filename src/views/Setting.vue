@@ -1,13 +1,13 @@
 <template>
-  <div>
+  <div class="page">
     <Profile />
     <Section>
-      <ToggleMenu label="Notification sound" />
-      <ToggleMenu label="Hide my likes" />
+      <ToggleMenu on label="Notification sound" />
+      <ToggleMenu on label="Hide my likes" />
       <ToggleMenu label="Share your information" />
     </Section>
     <Section>
-      <ToggleMenu label="Send Auto-Reply" />
+      <ToggleMenu on label="Send Auto-Reply" />
       <ToggleMenu label="Email Notifications" />
       <ToggleMenu label="Newsletter" />
     </Section>

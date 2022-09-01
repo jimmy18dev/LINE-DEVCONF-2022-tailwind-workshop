@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div class="toggle-menu">
     <div>{{ label }}</div>
-    <ToggleSwitch />
+    <ToggleSwitch :on="on" />
   </div>
 </template>
 
@@ -13,6 +13,7 @@ export default defineComponent({
   name: 'ToggleMenu',
   props: {
     label: String,
+    on: Boolean
   },
   components: {
     ToggleSwitch,

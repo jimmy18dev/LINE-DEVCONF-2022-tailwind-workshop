@@ -10,8 +10,11 @@ import { defineComponent, ref } from 'vue'
 
 export default defineComponent({
   name: 'ToggleSwitch',
-  setup () {
-    const isOn = ref(false)
+  props: {
+    on: Boolean
+  },
+  setup (props) {
+    const isOn = ref(props.on)
     const onToggle = (): void => {
       isOn.value = !isOn.value
     }
