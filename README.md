@@ -1,5 +1,7 @@
 # Workshop: Utility-first CSS framework packed with Tailwind CSS.
 
+[![wakatime](https://wakatime.com/badge/user/227bba27-7635-449d-95a3-475bf4b584f5/project/8a103187-fb9e-47c1-a3c8-d08889595e17.svg)](https://wakatime.com/badge/user/227bba27-7635-449d-95a3-475bf4b584f5/project/8a103187-fb9e-47c1-a3c8-d08889595e17)
+
 LINE THAILAND DEVELOPER CONFERENCE 2022</br>
 Sep 3, 9.00 - 17.00 at BITEC Grand Hall 201-203 [REGISTER NOW](https://linedeveloperth.web.app/linedevconf2022/register.html)</br>
 Check out the [tailwindcss docs](https://tailwindcss.com) to learn more.
