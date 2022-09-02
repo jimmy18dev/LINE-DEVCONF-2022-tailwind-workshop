@@ -1,6 +1,6 @@
 <template>
-  <div class="toggle-menu">
-    <div>{{ label }}</div>
+  <div class="flex h-12 items-center justify-between pr-4 ml-4">
+    <div class="text-lg text-gray-900">{{ label }}</div>
     <ToggleSwitch :on="on" />
   </div>
 </template>

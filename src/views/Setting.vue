@@ -1,5 +1,5 @@
 <template>
-  <div class="page">
+  <div class="">
     <Profile />
     <Section>
       <ToggleMenu on label="Notification sound" />

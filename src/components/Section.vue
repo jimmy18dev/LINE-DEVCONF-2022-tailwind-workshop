@@ -1,5 +1,5 @@
 <template>
-  <div class="menulist">
+  <div class="bg-white flex flex-col mx-4 mb-5 rounded-lg shadow divide-y divide-gray-200">
     <slot></slot>
   </div>
 </template>
