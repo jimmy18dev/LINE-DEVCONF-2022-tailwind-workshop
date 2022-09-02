@@ -2,11 +2,23 @@
   <div class="fullscreen">
     <h1 class="center">Create an account</h1>
     <div class="content">
-      <InputText type="text" label="Fullname" placeholder="First name and Last name" />
-      <InputText type="email" label="Email" placeholder="Enter email address" />
-      <InputText type="password" label="Password" placeholder="Enter password" />
+      <InputText
+        type="text"
+        label="Fullname"
+        placeholder="First name and Last name"
+      />
+      <InputText
+        type="email"
+        label="Email"
+        placeholder="Enter email address"
+      />
+      <InputText
+        type="password"
+        label="Password"
+        placeholder="Enter password"
+      />
     </div>
-    <Button>Sign Up</Button>
+    <Button>Register</Button>
   </div>
 </template>
 

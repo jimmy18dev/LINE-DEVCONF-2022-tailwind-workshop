@@ -5,6 +5,7 @@
       <ToggleMenu on label="Notification sound" />
       <ToggleMenu on label="Hide my likes" />
       <ToggleMenu label="Share your information" />
+      <ToggleMenu label="Personal Hotspot" />
     </Section>
     <Section>
       <ToggleMenu on label="Send Auto-Reply" />
