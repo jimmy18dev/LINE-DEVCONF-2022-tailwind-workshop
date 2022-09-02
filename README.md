@@ -18,8 +18,11 @@ $ npm i && npm run dev
 [Open] http://localhost:3030/setting
 [Open] http://localhost:3030/signup
 ```
-
+Expected
 ![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/example.png)
+
+Inspecet
+![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/inspecet.png)
 
 ## Recommended IDE Setup
 
