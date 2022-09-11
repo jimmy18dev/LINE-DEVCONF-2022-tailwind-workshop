@@ -1,5 +1,5 @@
 <template>
-  <div class="toggle-menu">
+  <div>
     <div>{{ label }}</div>
     <ToggleSwitch :on="on" />
   </div>

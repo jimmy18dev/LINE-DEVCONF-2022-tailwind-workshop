@@ -1,5 +1,5 @@
 <template>
-  <div class="input-label">
+  <div>
     <slot></slot>
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="menulist">
+  <div>
     <slot></slot>
   </div>
 </template>

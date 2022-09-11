@@ -1,7 +1,7 @@
 <template>
-  <div class="profile">
-    <img class="profile-image" src="@/assets/images/avatar.jpg" alt="Maxwell">
-    <div class="profile-name">Hello, Maxwell</div>
+  <div>
+    <img src="@/assets/images/avatar.jpg" alt="Maxwell">
+    <div>Hello, Maxwell</div>
   </div>
 </template>
 

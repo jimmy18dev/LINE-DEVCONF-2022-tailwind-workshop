@@ -1,7 +1,7 @@
 <template>
-  <div class="fullscreen">
-    <h1 class="center">Create an account</h1>
-    <div class="content">
+  <div>
+    <h1>Create an account</h1>
+    <div>
       <InputText
         type="text"
         label="Fullname"

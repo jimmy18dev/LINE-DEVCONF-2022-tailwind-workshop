@@ -1,8 +1,7 @@
 <template>
-  <div class="fullscreen">
-    <div class="content">
+  <div>
+    <div>
       <img
-        class="cover"
         src="../assets/images/cover.jpg"
         alt="Fashion Up Your Look"
       >
