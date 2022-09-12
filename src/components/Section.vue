@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex flex-col bg-white rounded-lg shadow mx-4 mb-4 divide-y divide-gray-200">
     <slot></slot>
   </div>
 </template>

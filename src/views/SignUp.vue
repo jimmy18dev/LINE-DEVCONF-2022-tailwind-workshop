@@ -1,7 +1,7 @@
 <template>
-  <div>
-    <h1>Create an account</h1>
-    <div>
+  <div class="bg-white flex flex-col p-4 fixed inset-0">
+    <h1 class="text-2xl text-gray-900 text-center my-5">Create an account</h1>
+    <div class="flex flex-col mb-auto">
       <InputText
         type="text"
         label="Fullname"
