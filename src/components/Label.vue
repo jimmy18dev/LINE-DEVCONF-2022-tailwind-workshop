@@ -8,6 +8,6 @@
 import { defineComponent } from 'vue'
 
 export default defineComponent({
-  name: 'LabelText',
+  name: 'Label',
 })
 </script>
