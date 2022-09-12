@@ -3,9 +3,7 @@
     <LabelText>{{ label }}</LabelText>
     <div>
       <div v-if="type">
-        <font-awesome-icon v-if="type === 'text'" :icon="['fas', 'user']" />
-        <font-awesome-icon v-if="type === 'password'" :icon="['fas', 'key']" />
-        <font-awesome-icon v-if="type === 'email'" :icon="['fas', 'envelope']" />
+        <Icon :type="type" />
       </div>
       <input :type="type" :placeholder="placeholder">
     </div>
@@ -15,11 +13,13 @@
 <script lang="ts">
 import { defineComponent } from 'vue'
 import LabelText from '@/components/LabelText.vue'
+import Icon from '@/components/Icon.vue'
 
 export default defineComponent({
   name: 'InputText',
   components: {
     LabelText,
+    Icon,
   },
   props: {
     label: String,
