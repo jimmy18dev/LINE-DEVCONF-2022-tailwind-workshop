@@ -21,11 +21,17 @@ $ npm i && npm run dev
 ```
 
 [TailwindCSS Docs](https://tailwindcss.com) to learn more.
-###### Expected 👇
+###### All Expected 👇
 ![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/example.png)
 
-###### Inspecet 👇
-![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/inspecet.png)
+###### Home Page 👇
+![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/home-inspecet.png)
+
+###### Signup Page 👇
+![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/signup-inspecet.png)
+
+###### Setting Page 👇
+![Workshop Utility-first CSS framework packed with Tailwind CSS](https://raw.githubusercontent.com/jimmy18dev/LINE-DEVCONF-2022-tailwind-workshop/main/screenshots/setting-inspecet.png)
 
 ## Recommended IDE Setup
 [Visual Studio Code](https://code.visualstudio.com/) and install [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) extension to Intelligent suggestions for class names, highlights errors and see the complete CSS.
