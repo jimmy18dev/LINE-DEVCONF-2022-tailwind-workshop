@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="flex flex-col">
     <Profile />
     <Section>
       <ToggleMenu on label="Notification sound" />
